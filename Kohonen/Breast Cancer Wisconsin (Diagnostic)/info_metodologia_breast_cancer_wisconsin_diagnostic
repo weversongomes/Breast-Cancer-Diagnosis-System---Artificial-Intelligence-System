@@ -1,0 +1,13 @@
+Total de amostras: 569
+Total de amostras malignas: 212 = 37%
+Total de amostras benignas: 357 = 63%
+
+Total de amostras do arquivo de treinamento: 398 = 70%
+Total de amostra malignas no arquivo de treinamento: 148 = 37%
+Total de amostra benignas no arquivo de treinamento: 250 = 63%
+1-148: malignas // 149-398: benignas
+
+Total de amostras do arquivo de teste: 171 = 30%
+Total de amostra malignas no arquivo de teste: 64 = 37%
+Total de amostra benignas no arquivo de teste: 107 = 63%
+1-64: malignas // 65-171: benignas
