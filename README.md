@@ -1,5 +1,5 @@
 # Breast Cancer Diagnosis System Based on Artificial Intelligence
-It's an artificial intelligence system based on Kohonen's network.
+It's an artificial intelligence system based on Kohonen's neural network.
 
 Papers are included.
 
